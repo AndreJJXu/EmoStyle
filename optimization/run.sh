@@ -1,0 +1,22 @@
+python3 optimization/run_optimization_comprehensive.py --lambda_similarity 0.002 --lambda_identity 0.0 --truncation 0.7 --lr 0.1 --audio_path "path2wav" --ckpt path2ckpt  --stylegan_size 512  --results_dir path2result  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
