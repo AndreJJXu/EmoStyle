@@ -44,3 +44,15 @@ cd optimization
 
 bash run.sh
 ```
+
+
+# Sound-guided Image Manipulation
+
+This repository contains the code and data for the project *Sound-guided Image Manipulation*.
+
+## Citation
+If you find our work useful, please cite our paper:
+
+Shen Q, Xu J, Mei J, et al. **EmoStyle: Emotion-Aware Semantic Image Manipulation with Audio Guidance**. *Applied Sciences*, 2024, 14(8): 3193. [Link to paper](https://www.mdpi.com/journal/applsci) (Add actual link if available)
+
+
