@@ -55,4 +55,14 @@ If you find our work useful, please cite our paper:
 
 Shen Q, Xu J, Mei J, et al. **EmoStyle: Emotion-Aware Semantic Image Manipulation with Audio Guidance**. *Applied Sciences*, 2024, 14(8): 3193. [Link to paper](https://www.mdpi.com/journal/applsci) (Add actual link if available)
 
-
+```bibtex
+@article{shen2024emostyle,
+  title={EmoStyle: Emotion-Aware Semantic Image Manipulation with Audio Guidance},
+  author={Shen, Qiwei and Xu, Junjie and Mei, Jiahao and Wu, Xingjiao and Dong, Daoguo},
+  journal={Applied Sciences},
+  volume={14},
+  number={8},
+  pages={3193},
+  year={2024},
+  publisher={MDPI}
+}
